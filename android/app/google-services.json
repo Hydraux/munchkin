@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595438521833",
+    "project_id": "munchkin-98723",
+    "storage_bucket": "munchkin-98723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595438521833:android:599127362199bfd58a0f78",
+        "android_client_info": {
+          "package_name": "com.example.munchkin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595438521833-cfbgk4691a51lqsccm4mce92h904ipmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKB9iv0qTXxq4mKEcAuxhp1LYWxJQrGPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595438521833-cfbgk4691a51lqsccm4mce92h904ipmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
